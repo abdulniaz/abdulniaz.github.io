@@ -1,0 +1,44 @@
+#lambo-title {
+	text-align: center;
+}
+
+#lambo-text {
+	text-align: center;
+}
+
+#navbar-background{
+	background-color:black !important;
+}
+#navbar-text {
+	color: white !important; 
+}
+
+.nav-link{
+	color: white !important;
+}
+
+.card-footer {
+	text-align: center;
+}
+
+body {
+ font-family: "Open Sans", Arial, sans-serif;
+}
+
+.jumbotron {
+	background-image: url("img/lambo1.png");
+}
+
+.btn-primary {
+    color: #fff !important;
+    background-color: #292b2c !important;
+    border-color: #464a4c !important;
+}
+
+.display-3 {
+	color: white;
+}
+
+.display-1 {
+	color: white;
+}
